@@ -1,0 +1,17 @@
+{
+  "packageId": "com.nycledger.app",
+  "host": "ais-pre-sflt46ze6xlnc25galp2hk-590423334061.us-west2.run.app",
+  "name": "NYC Ledger",
+  "launcherName": "NYC Ledger",
+  "themeColor": "#4f46e5",
+  "navigationColor": "#0f172a",
+  "backgroundColor": "#0f172a",
+  "enableNotifications": true,
+  "startUrl": "/",
+  "iconUrl": "/icons/icon-512.png",
+  "maskableIconUrl": "/icons/icon-maskable-512.png",
+  "appVersionName": "1.0.0",
+  "appVersionCode": 1,
+  "minSdkVersion": 24,
+  "targetSdkVersion": 34
+}

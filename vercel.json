@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/screenshots/:path*",
+      "destination": "https://raw.githubusercontent.com/Yoi96/nycledger/main/screenshots/:path*"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "NYC Ledger - Smart Expense Tracker",
+  "description": "100% offline and private NYC cat-themed expense tracker with smart receipt scanning, OMNY transit tracker, city tools, and budget analytics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
